@@ -9,7 +9,8 @@ public class deep  {
 
 	public static void main(String[] args) {
 		kuldeepclasstest okct = new kuldeepclasstest();
-		okct.mobile();
+		//okct.mobile();
+		System.out.println();
 		
 
 	}
