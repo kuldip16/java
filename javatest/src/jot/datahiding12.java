@@ -12,9 +12,8 @@ static int i=46;
 	void method(int i) 
 	{
 		i = 20;
-		System.out.println("Value of int :" + i);
-	
-		System.out.println("Value of int with this keyword :" + this.i );
+		System.out.println("Value of int :" + this.i);
+		System.out.println("Value of int with this keyword :" + i );
 	}
  
 	void method()
