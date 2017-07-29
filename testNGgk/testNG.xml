@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+	 <test name="regression"> 
+	<classes>
+		 <class name="testNGgk.TC01"></class> 
+		 <class name="testNGgk.TC02"></class>
+		 <class name="testNGgk.TC03"></class> 
+	</classes>
+	</test> 
+	    <test name="regression1">
+	     <classes> 
+	     	<class name="testNGgk.TC03"></class> 
+	     </classes> 
+	</test> 
+	<!--<test name="Practice Grouping">
+         <groups>
+         <run>
+         <define name="All">
+ 	   		 <include name="Car"/>
+ 	   		 <include name="Scooter"/>
+		 </define>
+  		<include name="All" />
+ 	    </run>
+ 	</groups>
+ 	<classes>
+	    <class name="testNGgk.TC04" />
+ 	</classes>
+     </test>-->
+</suite>
