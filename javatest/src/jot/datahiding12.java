@@ -13,7 +13,7 @@ static int i=46;
 	{
 		i = 20;
 		System.out.println("Value of int :" + i);
-		System.out.println("test");
+	
 		System.out.println("Value of int with this keyword :" + this.i );
 	}
  
