@@ -13,7 +13,7 @@ public void  constructor1()
 		constructor1 ct = new constructor1();
 		ct.constructor1(5);
 		ct.constructor1();
-		ct.constructor1(6);
+		
 		
 
 	}
