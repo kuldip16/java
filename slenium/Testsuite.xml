@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="my test suite">
+	<test name="regression testing">
+		<classes>
+			<class name="com.ecom.TC01"></class>
+		</classes>
+	</test>
+</suite>
